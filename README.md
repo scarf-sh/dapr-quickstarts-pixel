@@ -35,3 +35,4 @@ Go deeper into a topic or scenario, oftentimes using building block APIs togethe
 ## Code of Conduct
 
 Please refer to our [Dapr Community Code of Conduct](https://github.com/dapr/community/blob/master/CODE-OF-CONDUCT.md)
+<img referrerpolicy="no-referrer-when-downgrade" src="https://static.scarf.sh/a.png?x-pxid=4848fb3b-3edb-4329-90a9-a9d79afff054" />
